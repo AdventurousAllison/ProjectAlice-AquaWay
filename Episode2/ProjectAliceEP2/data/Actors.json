@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Misae","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Hiyako_battle","characterIndex":0,"characterName":"Hiyako_walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Hiyako","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hiyako","nickname":"","note":"","profile":""}
 ]
