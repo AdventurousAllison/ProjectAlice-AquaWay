@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"Hiyako_battle","characterIndex":0,"characterName":"Hiyako_walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Hiyako","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hiyako","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Aurelia","characterIndex":0,"characterName":"Aurelia_walk","classId":3,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Aurelia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aurelia","nickname":"","note":"","profile":"A girl curious about the local mystery of why the\ntrees appear to bleed..."},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"\"Player\"","note":"","profile":""}
 ]
